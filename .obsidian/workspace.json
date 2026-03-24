@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/xx-技术（花名）26年第XX周周报.md",
+                "file": "templates/技术中心周报模板.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "xx-技术（花名）26年第XX周周报"
+              "title": "技术中心周报模板"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/xx-技术（花名）26年第XX周周报.md",
+                "file": "templates/技术中心周报模板.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "xx-技术（花名）26年第XX周周报 的反向链接列表"
+              "title": "技术中心周报模板 的反向链接列表"
             }
           },
           {
@@ -198,7 +198,7 @@
   "active": "670b9f1b42997835",
   "lastOpenFiles": [
     "Obsidian 使用教程.md",
-    "templates/xx-技术（花名）26年第XX周周报.md",
+    "templates/技术中心周报模板.md",
     "未命名",
     "README.md",
     "Obsidian 使用教程",
