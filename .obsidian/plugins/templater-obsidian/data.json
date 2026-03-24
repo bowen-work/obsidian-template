@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "报告模板",
+  "templates_folder": "",
   "templates_pairs": [
     [
       "",
