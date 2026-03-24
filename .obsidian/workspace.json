@@ -94,9 +94,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "一个文件.md",
+                "file": "Obsidian 使用教程.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "一个文件 的反向链接列表"
+              "title": "Obsidian 使用教程 的反向链接列表"
             }
           },
           {
@@ -164,13 +164,23 @@
               "icon": "lucide-list",
               "title": "一个文件 的大纲"
             }
+          },
+          {
+            "id": "f3f51297d2dd8431",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,12 +195,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "670b9f1b42997835",
+  "active": "01f65c7e36f622bc",
   "lastOpenFiles": [
+    "未命名",
     "README.md",
-    "报告模板/xx-技术（花名）26年第XX周周报.md",
+    "templates/xx-技术（花名）26年第XX周周报.md",
     "Obsidian 使用教程.md",
     "Obsidian 使用教程",
-    "报告模板"
+    "templates"
   ]
 }
