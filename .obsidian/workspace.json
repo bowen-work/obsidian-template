@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "一个文件.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "一个文件"
+              "title": "README"
             }
           }
         ]
@@ -186,7 +186,7 @@
   },
   "active": "670b9f1b42997835",
   "lastOpenFiles": [
-    "README.md",
-    "一个文件.md"
+    "一个文件.md",
+    "README.md"
   ]
 }
