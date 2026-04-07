@@ -11,14 +11,10 @@
             "id": "8cf83cceb1d6fec2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名/未命名.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "新标签页"
             }
           }
         ]
@@ -196,6 +192,10 @@
   },
   "active": "01f65c7e36f622bc",
   "lastOpenFiles": [
+    "templates/技术中心月度会议汇报模板.md",
+    "templates/【周报】运维、基础保障负责⼈《周度、⽉度汇报》模板.md",
+    "templates/【周报】技术主管《周度、月度汇报》模板.md",
+    "templates/【日报】模板.md",
     "README.md",
     "未命名/未命名.md",
     "templates/技术中心周报模板.md",
