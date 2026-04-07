@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "未命名/未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "未命名"
             }
           }
         ]
@@ -194,12 +194,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8cf83cceb1d6fec2",
+  "active": "01f65c7e36f622bc",
   "lastOpenFiles": [
+    "README.md",
+    "未命名/未命名.md",
     "templates/技术中心周报模板.md",
     "未命名",
     "Obsidian 使用教程.md",
-    "README.md",
     "未命名.md",
     "Obsidian 使用教程",
     "templates"
